@@ -6,7 +6,7 @@
 # RH 2.16.91.0.2-2, SuSE 2.13.90.0.18-6
 %define name		%{package_prefix}binutils
 %define version		2.16.91.0.2
-%define release		 %mkrel 4
+%define release		 %mkrel 5
 
 %define lib_major	2
 %define lib_name_orig	%{package_prefix}%mklibname binutils
