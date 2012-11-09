@@ -1,0 +1,3 @@
+sources:
+  "binutils-2.16.91.0.2.tar.bz2:"	c1370a56b68dc0af8e7c7130dc298c121f73be36
+  "build_cross_binutils.sh:"	9ef38bce0a25eecc660af06b70a36774053ba505
