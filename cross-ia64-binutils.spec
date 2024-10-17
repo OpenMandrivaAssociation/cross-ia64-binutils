@@ -24,7 +24,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Development/Other
-URL:		http://sources.redhat.com/binutils/
+URL:		https://sources.redhat.com/binutils/
 Source0:	http://ftp.kernel.org/pub/linux/devel/binutils/binutils-%{version}.tar.bz2
 Source1:	build_cross_binutils.sh
 Buildroot:	%{_tmppath}/%{name}-%{version}-root
